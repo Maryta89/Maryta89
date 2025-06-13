@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there, I’m Maryam Talebzadeh👋
 
-<!--
-**Maryta89/Maryta89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 About Me
 
-Here are some ideas to get you started:
+🔭 I’m currently working on front‑end projects and small AI experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m deepening my knowledge of React, Next.js, and Robotics frameworks.
+
+👯 I’m looking to collaborate on open‑source front‑end tools and Python AI libraries.
+
+💬 Ask me about JavaScript, Python, Git, or anything Web.
+
+⚡ Fun fact: I can spend hours tweaking a single line of code for the perfect animation.
+
+🛠️ Tech Stack
+
+Front‑End
+
+Back‑End & AI
+
+
+
