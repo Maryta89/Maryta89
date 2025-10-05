@@ -1,22 +1,25 @@
-Hi there, I’m Maryam Talebzadeh👋
+Hi there, I’m Maryam Talebzadeh 👋
 
 🌟 About Me
 
-🔭 I’m currently working on front‑end projects and small AI experiments.
+🔭 I’m currently working on front‑end projects, data analysis tasks, and small AI experiments.
 
-🌱 I’m deepening my knowledge of React, Next.js, and Robotics frameworks.
+🌱 I’m deepening my knowledge of React, Next.js, Robotics frameworks, and advanced data analytics tools including Power BI, Pandas, and SQL.
 
-👯 I’m looking to collaborate on open‑source front‑end tools and Python AI libraries.
+👯 I’m looking to collaborate on open‑source front‑end projects, data-driven applications, and Python AI libraries.
 
-💬 Ask me about JavaScript, Python, Git, or anything Web.
+💼 I’m also passionate about project management, optimizing workflows, and delivering high-impact solutions.
 
-⚡ Fun fact: I can spend hours tweaking a single line of code for the perfect animation.
+💬 Ask me about JavaScript, Python, data analysis, Power BI, project management, or anything Web.
 
-🛠️ Tech Stack
+⚡ Fun fact: I can spend hours tweaking a single line of code for the perfect animation — or exploring a dataset until I find a hidden insight.
 
-Front‑End
+🛠️ Tech Stack
 
-Back‑End & AI
+Front‑End: React, Next.js, HTML, CSS, Tailwind
 
+Back‑End & AI: Python, Machine Learning, Robotics frameworks
 
+Data Analysis: Power BI, Pandas, NumPy, SQL, Excel
 
+Project Management: Trello, Jira, Agile methodologies
